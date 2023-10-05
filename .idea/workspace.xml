@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c83ea364-c991-4558-b5ab-346c326ca52a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dataset/datasetX.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/le.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/nn-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/nn-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/nn-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/nn-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/nn-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/nn-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/ohe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saved_models/model-ann-11-5-4-1.keras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saved_models/model-ann-11-8-4-2-1.keras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saved_models/model-ann-11-8-8-8-1.keras" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/le.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/ohe.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
